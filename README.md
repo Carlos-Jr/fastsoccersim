@@ -1,2 +1,2 @@
 # fastsoccersim
-Fast VSS simulator  for Algorithm tests
+The most simple VSS simulator  for Algorithm tests
